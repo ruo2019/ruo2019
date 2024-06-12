@@ -8,4 +8,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruo2019&background=00000000&border_radius=50&border=007504&ring=d40000&fire=d40000&currStreakNum=f2c00c&stroke=007504&sideNums=f2c00c&sideLabels=9d00ff&dates=0088ff)](https://git.io/streak-stats)
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=ruo302543" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=PoeticIvy302543" alt="LeetCode Badges"/>
